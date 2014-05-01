@@ -21,7 +21,7 @@ Feature Testing Layout
 .. _`Python step implementations`: tutorial.html#python-step-implementations
 .. _`environmental controls`: tutorial.html#environmental-controls
 
-These files are typically stored in a firectory called "features". The
+These files are typically stored in a directory called "features". The
 minimum requirement for a features directory is::
 
   features/
@@ -664,4 +664,3 @@ Modifications to the Gherkin Standard
 *behave* can parse standard Gherkin files and extends Gherkin to allow
 lowercase step keywords because these can sometimes allow more readable
 feature specifications.
-
